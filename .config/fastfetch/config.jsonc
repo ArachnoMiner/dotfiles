@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "modules": [
+    "title",
+    "separator",
+    {
+	"type": "os",
+	"format": "{name}"
+    },
+    "host",
+    "packages",
+    "shell",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "font",
+    "terminal",
+    "terminalfont",
+    "memory",
+    "disk",
+    "battery",
+    "separator"
+  ]
+}
